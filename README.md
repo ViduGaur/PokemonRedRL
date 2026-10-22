@@ -1,0 +1,1 @@
+An early experiment in playing Pokemon Red with reinforcement learning. It uses tabular Q-learning on top of the PyBoy Game Boy emulator. This was my first project after getting back into coding, so it is rough and no longer maintained.
